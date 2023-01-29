@@ -1,34 +1,34 @@
-# Место
+# Place
 
 
-## Обзор
-Интерактивная страница, на которой можно делиться красивыми фотографиями
+## Overview
+An interactive page where you can share beautiful photos
 
-## Функционал
-* изменение данных пользователя и аватара
-* добавление, удаление карточек, возможность поставить лайк
-* валидация форм
+## Functional
+* changing user and avatar data
+* adding, deleting cards, the ability to like
+* validation of forms
 
 
-## Используемые технологии
+## Technologies used
 * Grid-layout
-* Flex, интерактивные элементы, 
-* адаптивная верстка. Файловая структура организована по 
-* БЭМ.
+* Flex, interactive elements,
+* adaptive layout. The file structure is organized by
+* BEM.
 * ES6 Classes
 
-## Запуск:
-* Создайте локальную директорию для проекта
+## Launch:
+* Create a local directory for the project
 `mkdir dev`
-* Перейдите в созданную директорию
+* Go to the created directory
 `cd dev`
-* Клонируйте репозиторий в созданную директорию
+* Clone the repository into the created directory
 `git clone https://github.com/IIKolchin/mesto-project.git`
-* Откройте проект в любом редакторе кода
-* Выполните `npm install && npm run dev` в терминале, находясь в папке проекта.
+* Open the project in any code editor
+* Execute `npm install && rpm run dev` in the terminal, located in the project folder.
 
-Контрибьюторы:
-Фадеев Константин - https://github.com/Stern-Ritter (fadeef.k@yandex.ru)
+Contributors:
+Konstantin Fadeev - https://github.com/Stern-Ritter (fadeef.k@yandex.ru )
 
-Cсылка на GitHub Pages:
+Link to GitHub Pages:
 https://iikolchin.github.io/mesto-project
